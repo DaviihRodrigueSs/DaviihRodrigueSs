@@ -8,7 +8,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davirodriguess___/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100071225043114)
 
-![ DaviihRodriguesSs GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviRodrigues&show_icons=true&bg_color=00000000)
+![ DaviihRodriguesSs GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviRodrigues&show_icons=true&bg_color=00000000)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRodrigues&hide_progress=true)
+
 
 
 ### Tecnologias que uso no meu dia 🖥️ 
@@ -28,4 +29,5 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 </div><br/>
+
 Fascinado pela tecnologia e seus avanços ❤️
