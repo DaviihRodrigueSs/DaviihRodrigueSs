@@ -1,4 +1,5 @@
-### Olá ! Me chamo Davi Santana Rodrigues de Azevedo 🤙
+### Olá ! Me chamo Davi Santana Rodrigues de Azevedo, tenho 24 anos, e sou fascinado pela tecnologia e seus avanços.
+### Graduando em Análise e desenvolvimento de sistemas 
 
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davi.devrodrigues@gmail.com)
@@ -28,5 +29,3 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 </div><br/>
 Fascinado pela tecnologia e seus avanços ❤️
-<br/>
-Dev Davi Rodrigues de Azevedo 
