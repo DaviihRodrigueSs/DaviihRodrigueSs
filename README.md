@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaviihRodrigueSs
 - 👀 I’m interested in ... Programmer
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... C#
 - 💞️ I’m looking to collaborate on ... Study
 - 📫 How to reach me ...
 
