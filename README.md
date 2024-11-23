@@ -1,5 +1,5 @@
-### Olá ! Me chamo Davi Santana Rodrigues de Azevedo, tenho 25 anos, e sou fascinado pela tecnologia e seus avanços.
-### Graduando em Engenharia de Software pela UFBRA
+### Olá ! Me chamo Davi Santana Rodrigues de Azevedo, tenho 25 anos, sou casado e fascinado pela tecnologia e seus avanços.
+### Graduando em Engenharia de Software pela UFBRA/2028
 
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://davi.devrodrigues@gmail.com)
